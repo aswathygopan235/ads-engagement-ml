@@ -8,4 +8,4 @@ Dataset Kaggle page: [https://www.kaggle.com/datasets/karnikakapoor/video-ads-en
 
 ## Aim of the project
 
-The goal is to determine ho long the user will watch the ad
+The goal is to determine how long the user will watch the ad.
